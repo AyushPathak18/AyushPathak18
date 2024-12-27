@@ -1,4 +1,4 @@
-<img src="https://img.freepik.com/free-vector/web-developmen…ation-design-cartoon-illustration_107791-3863.jpg" width="100%" alt="coding"/>
+
 # 💫 About Me:
 - 🎓 Student at **Galgotias University**, learning **React** and backend development.  <br>- 💻 Working on **web pages** and improving **DSA skills**.  <br>- 🚀 Passionate about building impactful solutions and full-stack development.  
 
